@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\bin\Debug\net8.0\GuessingApplication.exe
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\bin\Debug\net8.0\GuessingApplication.deps.json
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\bin\Debug\net8.0\GuessingApplication.runtimeconfig.json
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\bin\Debug\net8.0\GuessingApplication.dll
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\bin\Debug\net8.0\GuessingApplication.pdb
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.dll
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\refint\GuessingApplication.dll
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.pdb
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\GuessingApplication.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\GuessingApplication\GuessingApplication\obj\Debug\net8.0\ref\GuessingApplication.dll
